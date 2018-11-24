@@ -1,0 +1,9 @@
+{
+	"name": "publisher",
+	"authors": [
+		"Domain"
+	],
+	"description": "A tool used to publish the servers",
+	"copyright": "Copyright © 2018, Domain",
+	"license": "MIT"
+}

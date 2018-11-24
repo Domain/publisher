@@ -1,0 +1,1 @@
+module publisher.command.help;
